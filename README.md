@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm Nawras
 
-<!--
-**Eng-Nawras/Eng-Nawras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 Computer Engineering Student
+- 💻 Interested in Software Development & Embedded Systems
+- 🚀 Passionate about building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C / C++
+- Data Structures & Algorithms
+- Problem Solving
+- Git & GitHub (Learning)
+
+---
+
+## 📂 Projects
+- 🔹 Sudoku Validator (C, Multithreading)
+- 🔹 AVL Tree & Hash Table
+- 🔹 Bin Packing Solver (MIPS)
+
+---
+
+## 📫 Contact Me
+- 📧 Email: nawraskhader710@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/nawras-yaqoob
+
+---
+
+⭐ Always learning and building!
