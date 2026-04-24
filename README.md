@@ -1,68 +1,81 @@
-# Hi 👋, I'm Nawras Yacoob
-
-🎓 Computer Engineering Student at Birzeit University  
-💻 Passionate about Software Development, Embedded Systems, and Digital Design  
+<h1 align="center">Hi 👋, I'm Nawras Yacoob</h1>
+<h3 align="center">Computer Engineering Student | Developer | Problem Solver</h3>
 
 ---
 
 ## 🌟 About Me
-- 🎓 Studying Computer Engineering at Birzeit University  
+- 🎓 Computer Engineering Student at Birzeit University  
 - 📍 Based in Palestine  
-- 💡 Interested in:
-  - Computer Architecture
-  - Embedded Systems
-  - AI & Machine Learning
-  - Data Structures & Algorithms  
-- 🚀 Building real-world projects and improving problem-solving skills  
+- 💡 Interested in Computer Architecture, Embedded Systems, AI  
+- 🚀 Passionate about building real-world projects  
 
 ---
 
 ## 🎭 Activities & Interests
-- 💃 Participated in traditional Dabke (folk dance)
-- 🎤 Member in choir (choral singing)
-- 🏃 Active in sports and university activities
-- 🎬 Participated in theater performances
+- 💃 Traditional Dabke (Folk Dance)
+- 🎤 Choir (Choral Singing)
+- 🏃 Sports & University Activities
+- 🎬 Theater Performances  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Programming Languages:**  
-C, C++, Python, Verilog, SystemVerilog  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vscode" />
+</p>
 
-**Concepts & Fields:**  
-Data Structures, Computer Architecture, Digital Design, AI  
-
-**Tools:**  
-Git, GitHub, MATLAB, Quartus, VS Code  
+<p align="center">
+  <img src="https://img.shields.io/badge/Verilog-blue?style=for-the-badge&logo=verilog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Used |
-|--------|------------|----------|
-| Computer Architecture CPU | 32-bit pipelined RISC processor with hazard detection | Verilog |
-| AI Project | Machine learning & classification project with dataset | Python |
-| Data Structures | Implementation of linked lists, stacks, queues | C |
-| Advanced Digital Design | SystemVerilog design with testbench verification | SystemVerilog |
+| Project | Description | Tech |
+|--------|------------|------|
+| 🧠 CPU Design | 32-bit Pipelined RISC Processor | Verilog |
+| 🤖 AI Project | Classification & ML Models | Python |
+| 📚 Data Structures | Linked List, Stack, Queue | C |
+| ⚙️ Digital Design | SystemVerilog + Testbench | SystemVerilog |
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications
 
-- 🎓 CloudCraft: Code Your Infrastructure (IaC & AWS)
-- 🎓 Design Verification Bootcamp (DV)
-- 🎓 English Access Program (US Embassy)
-- 🎓 IBM Quantum Event Participation
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: nawraskhader710@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/nawras-yaqoob  
+- 🎓 CloudCraft (IaC & AWS)
+- 🎓 Design Verification Bootcamp
+- 🎓 English Access Program
+- 🎓 IBM Quantum Participation  
 
 ---
 
-⭐ Always learning and building new projects!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Nawras&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Nawras&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:nawraskhader710@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nawras-yaqoob">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ Always learning, building, and improving!
